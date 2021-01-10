@@ -1,0 +1,471 @@
+@media(max-width:1076px) {
+    .team__card__footer {
+        padding: 10px 15px;
+    }
+}
+@media(max-width:940px) {
+    .offering__card_section > li {
+        width: calc(100% / 2);
+    }
+    .offering__card_section {
+        justify-content: center;
+    }
+    .intro__subtitle {
+        padding: 0 50px;
+    }
+    .about__colm {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .about__cont {
+        width: 100%;
+    }
+    .about__cont__text {
+        text-align: center;
+    }
+    .about__cont__icon {
+        position: static;
+    }
+    .about__visual {
+        padding: 20px 50px;
+        width: 100%;
+    }
+    .about__visual img {
+        border-radius: 200px 200px 200px 200px;
+    }
+    .team__card__section > li {
+        width: calc(100% / 2);
+    }
+    .team__card__section {
+        justify-content: center;
+    }
+    .blog__card__section {
+        padding: 0px 100px;
+    }
+    .blog__card__section {
+        justify-content: center;
+    }
+    .blog__card__section > li {
+        width: calc(100% / 2);
+    }
+}
+@media(max-width:787px) {
+    .block__right a {
+        padding: 5px 30px;
+    }
+}
+@media(max-width:768px) {
+    .block__right {
+        padding: 0;
+    }
+    .slide_name {
+        left: 30%;
+    }
+    .footer__top {
+        display: block;
+        text-align: center;
+    }
+    .footer_about {
+        width: 100%;
+    }
+    .footer_decor {
+        left: 50%;
+    }
+    .footer_decor_1 {
+        left: 48%;
+    }
+    .footer_extra {
+        margin: 0;
+    }
+}
+@media(max-width:700px) {
+    .intro__title {
+        padding: 0 20px;
+    }
+    .about {
+        margin-top: 100px;
+    }
+    .offering__card_section > li {
+        width: calc(100% / 1);
+    }
+    .team__card__section > li {
+        width: calc(100% / 1);
+    }
+    .team__card__visual {
+        width: 100%;
+    }
+    .team__card__footer {
+        width: 100%;
+    }
+    .card__section {
+        width: 50%;
+        position: relative;
+        left: 25%;
+    }
+    .slide_name {
+        left: 32%;
+    }
+    .slick-next,
+    .slick-prev {
+        visibility: hidden;
+        opacity: 0;
+    }
+    .blog__card__section > li {
+        width: calc(100% / 1);
+    }
+    .block__right {
+        width: calc(100% / 1);
+    }
+    .footer__top {
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer_extra {
+        margin: 0;
+    }
+    .footer_about {
+        width: 100%;
+    }
+    .footer_about p {
+        padding: 0;
+    }
+    .footer_decor {
+        left: 50%;
+    }
+    .footer_decor_1 {
+        left: 48%;
+    }
+}
+@media(max-width:690px) {
+    .cont__icon {
+        flex-wrap: wrap;
+    }
+}
+@media(max-width:540px) {
+   .cont__icon {
+       flex-wrap: wrap;
+   }
+   .intro__subtitle {
+       padding: 0 40px;
+   }
+}
+@media(max-width:499px) {
+    .about__cont {
+        padding: 0 10px;
+    }
+}
+@media(max-width:414px){
+    .intro__title h1 {
+        font-size: 30px;
+    }
+    .intro__title h2 {
+        font-size: 25px;
+    }
+    .intro__subtitle {
+        padding: 0;
+    }
+    .intro {
+        margin: 130px 0 20px 0;
+    }
+    .decor1,
+    .decor2,
+    .decor3 {
+        display: none;
+    }
+    .offering__title {
+        margin-bottom: 30px;
+    }
+    .offering__card {
+        padding: 15px;
+    }
+    .about {
+        margin-top: 30px;
+    }
+    .about__cont {
+        padding: 15px;
+    }
+    .cont__icon {
+        flex-wrap: wrap;
+    }
+    .about__cont__text {
+        margin-bottom: 30px;
+    }
+    .icon__block {
+        width: 100px;
+        height: 100px;
+    }
+    .icon__block span {
+        font-size: 10px;
+    }
+    .about__visual {
+        display: none;
+    }
+    .team {
+        margin: 30px 0;
+    }
+    .team__decor {
+        display: none;
+    }
+    .card__section {
+        width: 100%;
+        left: 0;
+    }
+    .team__card__footer {
+        padding: 10px;
+        flex-direction: column;
+    }
+    .card__footer__text {
+        text-align: center;
+    }
+    .card__footer_social {
+        margin-top: 5px;
+    }
+    .sec_slider {
+        padding: 15px 0;
+    }
+    .slide_flex {
+        display: block;
+    }
+    .blo_visual {
+        display: none;
+    }
+    .blo_visual_right {
+        display: none;
+    }
+    .sli {
+        padding: 40px 15px;
+    }
+    .slide_name {
+        left: 30%;
+    }
+    .blog {
+        margin: 30px 0;
+    }
+    .blog__card__section {
+        padding: 0 15px;
+    }
+    .subcribe {
+        padding: 5px 10px;
+    }
+    .subcribe__block {
+        display: block;
+    }
+    .block__left {
+        padding: 5px;
+        width: 100%;
+        border-radius: 0;
+    }
+}
+@media(max-width:360px){
+    .intro__title h1 {
+        font-size: 30px;
+    }
+    .intro__title h2 {
+        font-size: 25px;
+    }
+    .intro__subtitle {
+        padding: 0;
+    }
+    .intro {
+        margin: 130px 0 20px 0;
+    }
+    .decor1,
+    .decor2,
+    .decor3 {
+        display: none;
+    }
+    .offering__title {
+        margin-bottom: 30px;
+    }
+    .offering__card {
+        padding: 15px;
+    }
+    .about {
+        margin-top: 30px;
+    }
+    .about__cont {
+        padding: 15px;
+    }
+    .cont__icon {
+        flex-wrap: wrap;
+    }
+    .about__cont__text {
+        margin-bottom: 30px;
+    }
+    .icon__block {
+        width: 100px;
+        height: 100px;
+    }
+    .icon__block span {
+        font-size: 10px;
+    }
+    .about__visual {
+        display: none;
+    }
+    .team {
+        margin: 30px 0;
+    }
+    .team__decor {
+        display: none;
+    }
+    .card__section {
+        width: 100%;
+        left: 0;
+    }
+    .team__card__footer {
+        padding: 10px;
+        flex-direction: column;
+    }
+    .card__footer__text {
+        text-align: center;
+    }
+    .card__footer_social {
+        margin-top: 5px;
+    }
+    .sec_slider {
+        padding: 15px 0;
+    }
+    .slide_flex {
+        display: block;
+    }
+    .blo_visual {
+        display: none;
+    }
+    .blo_visual_right {
+        display: none;
+    }
+    .sli {
+        padding: 40px 15px;
+    }
+    .slide_name {
+        left: 30%;
+    }
+    .blog {
+        margin: 30px 0;
+    }
+    .blog__card__section {
+        padding: 0 15px;
+    }
+    .subcribe {
+        padding: 5px 10px;
+    }
+    .subcribe__block {
+        display: block;
+    }
+    .block__left {
+        padding: 5px;
+        width: 100%;
+        border-radius: 0;
+    }
+}
+@media(max-width:320px){
+    .intro__title h1 {
+        font-size: 30px;
+    }
+    .intro__title h2 {
+        font-size: 25px;
+    }
+    .intro__subtitle {
+        padding: 0;
+    }
+    .intro {
+        margin: 130px 0 20px 0;
+    }
+    .decor1,
+    .decor2,
+    .decor3 {
+        display: none;
+    }
+    .offering__title {
+        margin-bottom: 30px;
+    }
+    .offering__card {
+        padding: 15px;
+    }
+    .about {
+        margin-top: 30px;
+    }
+    .about__cont {
+        padding: 15px;
+    }
+    .cont__icon {
+        flex-wrap: wrap;
+    }
+    .about__cont__text {
+        margin-bottom: 30px;
+    }
+    .icon__block {
+        width: 100px;
+        height: 100px;
+    }
+    .icon__block span {
+        font-size: 10px;
+    }
+    .about__visual {
+        display: none;
+    }
+    .team {
+        margin: 30px 0;
+    }
+    .team__decor {
+        display: none;
+    }
+    .card__section {
+        width: 100%;
+        left: 0;
+    }
+    .team__card__footer {
+        padding: 10px;
+        flex-direction: column;
+    }
+    .card__footer__text {
+        text-align: center;
+    }
+    .card__footer_social {
+        margin-top: 5px;
+    }
+    .sec_slider {
+        padding: 15px 0;
+    }
+    .slide_flex {
+        display: block;
+    }
+    .blo_visual {
+        display: none;
+    }
+    .blo_visual_right {
+        display: none;
+    }
+    .sli {
+        padding: 40px 15px;
+    }
+    .slide_name {
+        left: 30%;
+    }
+    .blog {
+        margin: 30px 0;
+    }
+    .blog__card__section {
+        padding: 0 15px;
+    }
+    .subcribe {
+        padding: 5px 10px;
+    }
+    .subcribe__block {
+        display: block;
+    }
+    .block__left {
+        padding: 5px;
+        width: 100%;
+        border-radius: 0;
+    }
+}
+@media(max-width:280px) {
+    .block__right {
+        padding: 20px 0;
+    }
+    .extra__icon {
+        display: none;
+    }
+}
